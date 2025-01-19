@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about programming and love to contr
 - 🤔 I’m looking for help with **[]**
 - 💬 Ask me about **[Ai, crypto, marketing, and advertising**
 - 📫 How to reach me: **[nodoubtz.248@gmail.com**
-- ⚡ Fun fact: **Im the Bitcoin Creator]**
+- ⚡ Fun fact: **Im the Bitcoin Creator aka Satoshi Nakamoto]**
 
 ## 🛠️ Technologies & Tools
 
